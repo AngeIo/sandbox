@@ -1234,3 +1234,11 @@ git-sync: Preparing. Repo in .git /home/deck/Documents/gitrepo/sandbox
 git-sync: Mode sync
 git-sync: Using origin/master
 git-sync: Committing local changes using git add -A ; git commit -m "changes from steamdeck on Sun Aug 7 12:00:36 AM CEST 2022";
+[master 3d77d1c] changes from steamdeck on Sun Aug 7 12:00:36 AM CEST 2022
+ 1 file changed, 8 insertions(+)
+git-sync: Auto-commit left uncommitted changes. Please add or remove them as desired and retry.
+Syncing due to timeout
+git-sync: Preparing. Repo in .git /home/deck/Documents/gitrepo/sandbox
+git-sync: Mode sync
+git-sync: Using origin/master
+git-sync: Committing local changes using git add -A ; git commit -m "changes from steamdeck on Sun Aug 7 12:00:37 AM CEST 2022";
