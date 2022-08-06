@@ -1,0 +1,11 @@
+usage: git remote get-url [--push] [--all] <name>
+
+    --push                query push URLs rather than fetch URLs
+    --all                 return all URLs
+
+Syncing  at /home/deck/Documents/gitrepo/sandbox with a default sync interval of 500
+Syncing due to timeout
+git-sync: Preparing. Repo in .git /home/deck/Documents/gitrepo/sandbox
+git-sync: Mode sync
+git-sync: Using origin/master
+git-sync: Committing local changes using git add -A ; git commit -m "changes from steamdeck on Sun Aug 7 12:00:20 AM CEST 2022";
